@@ -1,0 +1,10 @@
+beautifulsoup4==4.10.0
+dnspython==2.0.0
+facebook_scraper==0.2.59
+fake_headers==1.0.2
+ipwhois==1.2.0
+python_whois==0.8.0
+Requests==2.31.0
+scapy==2.5.0
+selenium==3.141.0
+whois==0.9.27
